@@ -4,15 +4,11 @@
 # Red Hat IT Security Day
 ## remote version
 
-October 2022
+Q2 2023
 
 ### Mentimeter Link:	
 
 https://www.menti.com/bke8pmp3o9
-
-## BJ Link
-
-https://bluejeans.com/300231310/3057
 
 ## Agenda:
 
