@@ -8,20 +8,24 @@ Q2 2023
 
 ### Mentimeter Link:	
 
-https://www.menti.com/bke8pmp3o9
+https://www.menti.com/al6fif1n9r6j
+
+### Link to Presentation:
+
+https://meet.google.com/iyx-xvaf-afm
 
 ## Agenda:
 
 9:30		Welcome
 
-		OpenShift from a security Perspective an overview
+		OpenShift from a security Perspective - an overview
 		Questions to be answers about OpenShift Security
 		
 		Red Hat Core OS as the Imutable Base of OpenSHift
 		
-		What it is
-		How it works
-		How to enhance the security
+		> What it is
+		> How it works
+		> How to enhance the security
 
 10:45		BREAK		
 
@@ -29,7 +33,7 @@ https://www.menti.com/bke8pmp3o9
 
 		Network based disc encryption
 		Red Hat Identity Management
-		Red Hat SSO (KEyCloak)
+		Red Hat SSO (KeyCloak)
 		RED HAT IPA and RBAC
 		Red Hat Quay
 
