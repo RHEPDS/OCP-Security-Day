@@ -18,14 +18,14 @@ https://meet.google.com/iyx-xvaf-afm
 
 9:30		Welcome
 
-		OpenShift from a security Perspective an overview
+		OpenShift from a security Perspective - an overview
 		Questions to be answers about OpenShift Security
 		
 		Red Hat Core OS as the Imutable Base of OpenSHift
 		
-		What it is
-		How it works
-		How to enhance the security
+		> What it is
+		> How it works
+		> How to enhance the security
 
 10:45		BREAK		
 
@@ -33,7 +33,7 @@ https://meet.google.com/iyx-xvaf-afm
 
 		Network based disc encryption
 		Red Hat Identity Management
-		Red Hat SSO (KEyCloak)
+		Red Hat SSO (KeyCloak)
 		RED HAT IPA and RBAC
 		Red Hat Quay
 
