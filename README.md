@@ -4,7 +4,7 @@
 # Red Hat IT Security Day
 ## remote version
 
-Q2 2023
+08 2023
 
 ### Mentimeter Link:	
 
