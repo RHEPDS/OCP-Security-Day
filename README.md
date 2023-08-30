@@ -10,10 +10,6 @@
 
 https://www.menti.com/al6fif1n9r6j
 
-### Link to Presentation:
-
-https://meet.google.com/iyx-xvaf-afm
-
 ## Agenda:
 
 9:30		Welcome
