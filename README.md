@@ -6,10 +6,6 @@
 
 11 2023
 
-### Mentimeter Link:	
-
-https://www.menti.com/al6fif1n9r6j
-
 ## Agenda:
 
 9:30		Welcome
