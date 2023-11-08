@@ -1,7 +1,7 @@
 <img src="https://github.com/RHEPDS/OCP-Security-Day/blob/main/logo.png" width="450" height="120">
 
 
-# Red Hat IT Security Day
+# Red Hat OpenShift Security Day
 ## remote version
 
 11 2023
