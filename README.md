@@ -42,5 +42,4 @@
 15:15		Homework
 
 		https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45314155
-
 17:00		OpenEnd		
