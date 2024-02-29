@@ -4,7 +4,7 @@
 # Red Hat OpenShift Security Day
 ## remote version
 
-11 2023
+03 2024
 
 ## Agenda:
 
