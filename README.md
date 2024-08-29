@@ -4,14 +4,14 @@
 # Red Hat OpenShift Security Day
 ## remote version
 
-03 2024
+08 2024
 
 ## Agenda:
 
 9:30		Welcome
 
-		OpenShift from a security Perspective - an overview
-		Questions to be answers about OpenShift Security
+		OpenShift from a Security Perspective - an overview
+		Questions to be answered about OpenShift Security
 		
 		Red Hat Core OS as the Imutable Base of OpenSHift
 		
@@ -23,7 +23,7 @@
 
 11:00		Which Red Hat Product can solve additional issues
 
-		Network based disc encryption
+		Network-based disc encryption
 		Red Hat Identity Management
 		Red Hat SSO (KeyCloak)
 		RED HAT IPA and RBAC
@@ -37,9 +37,8 @@
 		Red Hat Service Mesh (from a security perspective)
 		Advanced Container Security (ACS / Stackrox)
 
-15:00		BREAK
+14:30		Introduction into LAB
 
-15:15		Homework
+15:00		https://demo.redhat.com/workshop/wnaexy
 
-		https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45314155
 17:00		OpenEnd		
